@@ -1,0 +1,21 @@
+{
+  "name": "playwright-tour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shilgam/playwright-tour.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shilgam/playwright-tour/issues"
+  },
+  "homepage": "https://github.com/shilgam/playwright-tour#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.25.1"
+  }
+}
